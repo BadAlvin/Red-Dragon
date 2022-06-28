@@ -1,7 +1,7 @@
 //════════════(00)═══════════════════════════════════════//
 //
-//                              K.PRABHASHA
-//𝙰𝙳𝙾𝙿𝚃𝙴𝙳 𝙵𝚁𝙾𝙼  𝚂𝙲𝚁𝙸𝙿𝚃 𝙾𝙵 𝙲𝙷𝙴𝙴𝙼𝚂𝙱𝙾𝚃 𝚅2 𝙱𝚈 𝙳𝙶𝚇𝚎𝚘𝚗 
+//                              SANDUSHA KAWSHALYA
+//𝙰𝙳𝙾𝙿𝚃𝙴𝙳 𝙵𝚁𝙾𝙼  𝚂𝙲𝚁𝙸𝙿𝚃 𝙾𝙵 𝙲𝙷𝙴𝙴𝙼𝚂𝙱𝙾𝚃 𝚅2 𝙱𝚈 BAD ALVIN 
 //
 //════════════(00)════════════════//
 
@@ -20,8 +20,8 @@ global.APIKeys = {
 
 //customize settings\\
 
-global.alivemsg = `My name is RED DRAGON🔥
-My Creator is Kumuthu Prabhasha😎` //Costomize Alive Message (type your message in `` )
+global.alivemsg = `My name is BAD ALVIN🔥
+My Creator is SANDUSHA KAWSHALYA😎` //Costomize Alive Message (HI I AM ONLINE NOW)
 
 global.owner = ['+380944814219'] //Owner number in aive msg
 global.premium = ['+380944814219'] //Owner Number info
@@ -35,15 +35,15 @@ global.btnurl = '🙂🔥දැන් සැපද?😑' //Change Your Button's 
 
 global.region = 'India, South India, Kerala' //Country Region
 
-global.packname = '☬RED༒DRAGON࿐' //Bot Pacage Name
-global.author = '😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖❯❯' //Author Name
+global.packname = '𝗕𝗔𝗗 𝗔𝗟𝗩𝗜𝗡' //Bot Pacage Name
+global.author = '😎𝗦𝗔𝗡𝗦𝗨𝗦𝗛𝗔❯❯' //Author Name
 global.prefa = ['','!','.','😂','❤','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
 global.sessionName = 'session' //Session Name!
 global.sp = '⭔' //A Charactor In Menu!
 
 
-global.ig = 'https://github.com/prabhasha2006' //Github Account!
-global.footer = '©_Kumuthu.' // DO NOT CHANGE!
+global.ig = 'https://youtube.com/channel/UC-VBAbxLNILYiz_DnitaKnQ' //𝗬𝗧 CHANAL!
+global.footer = 'BAD ALVIN🇱🇰.' // DO NOT CHANGE!
 
 global.mess = { // Error Mesages
     success: 'Done ✅',
