@@ -23,12 +23,12 @@ global.APIKeys = {
 global.alivemsg = `My name is BAD ALVIN🔥
 My Creator is SANDUSHA KAWSHALYA😎` //Costomize Alive Message (HI I AM ONLINE NOW)
 
-global.owner = ['+380944814219'] //Owner number in aive msg
-global.premium = ['+380944814219'] //Owner Number info
-global.ownernomer = '+380944814219' //Owner Number <<<
+global.owner = ['+94781283816'] //Owner number in aive msg
+global.premium = ['+94784828441'] //Owner Number info
+global.ownernomer = '+94781283816' //Owner Number <<<
 
-global.ownername = '😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖' //Owner Name
-global.botname = ' ☬RED༒DRAGON' //Bot Name
+global.ownername = '😎𝗦𝗔𝗡𝗗𝗨𝗦𝗛𝗔' //Owner Name
+global.botname = ' 𝗕𝗔𝗗 𝗔𝗟𝗩𝗜𝗡' //Bot Name
 
 global.button = '🤭මේක ටච් කරන්න📍' //Costomize A Button Name In Alive Message
 global.btnurl = '🙂🔥දැන් සැපද?😑' //Change Your Button's URL
